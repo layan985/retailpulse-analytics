@@ -1,0 +1,14 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+.DS_Store
+
+# Reproducible generated artifacts. CI rebuilds these from source.
+data/raw/*.csv
+data/processed/*.csv
+results/*.db
+results/order_sample.csv
+results/ml/predictions.csv
+results/figures/
+retailpulse_dashboard.xlsx
