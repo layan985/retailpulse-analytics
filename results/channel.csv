@@ -1,0 +1,7 @@
+acquisition_channel,customers,orders,net_revenue,orders_per_customer,revenue_per_customer
+organic,3414,8297,2253701.79,2.43,660.14
+paid_search,2893,7301,1979322.63,2.52,684.18
+social,2155,5441,1487973.72,2.52,690.48
+email,2059,5244,1420495.31,2.55,689.9
+affiliate,1409,3574,983335.64,2.54,697.9
+unknown,70,143,37920.23,2.04,541.72
