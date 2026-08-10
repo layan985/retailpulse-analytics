@@ -1,0 +1,7 @@
+[project]
+name = "retailpulse-analytics"
+version = "0.1.0"
+description = "Revenue, retention, SQL, BI, and predictive analytics portfolio case study"
+requires-python = ">=3.11"
+[tool.pytest.ini_options]
+pythonpath = ["."]
