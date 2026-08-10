@@ -1,0 +1,7 @@
+orders=30000
+active_customers=8861
+net_revenue=8162749.32
+aov=279.09
+gross_margin=3466485.19
+return_rate=0.0684
+repeat_purchase_rate=0.6723
