@@ -1,0 +1,7 @@
+check,value
+raw_order_rows,30085
+duplicate_orders_removed,85
+clean_orders,30000
+blank_channels_after_clean,0
+orphan_items,0
+unique_customers,12000
